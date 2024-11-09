@@ -10,7 +10,7 @@ The objective of this project is to predict **Item_Outlet_Sales** based on vario
 
 ## Dataset
 
-The dataset, **Big Sales Data**, is downloaded from the **YBI Foundation GitHub Repository**. It contains 14,200 rows and several columns, including:
+The dataset, **Big Sales Data**, is downloaded from the **YBI Foundation GitHub Repository**. It contains 14,204 rows and several columns, including:
 
 - **Item_Identifier**: Unique identifier for each item.
 - **Item_Weight**: Weight of the item.
